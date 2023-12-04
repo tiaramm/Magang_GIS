@@ -1,7 +1,6 @@
-# react-native-content-petalokasiobjek
+# Aplikasi Magang GIS
 
-Peta lokasi objek form input data dan web map untuk konten React Native dalam rangka praktikum Pemrograman Geospasial Perangkat Bergerak Lanjut (PGPBL), Sekolah Vokasi UGM.
+Aplikasi pemetaan yang menyediakan persebaran tempat magang khusus di bidang GIS yang dapat juga memberikan tambahan informasi terkait magang bagi para mahasiswa semester 6
+Komponen yang disusun terdiri dari react-native framework yang disisipi juga icon dari FontAwesome5
+Sumber data: https://kampusmerdeka.kemdikbud.go.id/
 
-## Stack
-1. HTML
-2. Spreadsheet Apps Script
